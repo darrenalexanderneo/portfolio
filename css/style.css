@@ -173,6 +173,7 @@ a:hover {
 .title-left {
   font-size: 2rem;
   position: relative;
+  width: 30px;
 }
 
 .title-left:before {
@@ -180,7 +181,7 @@ a:hover {
   position: absolute;
   height: 3px;
   background-color: #0078ff;
-  width: 100px;
+  width: 10px;
   bottom: -12px;
 }
 
